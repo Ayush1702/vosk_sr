@@ -1,7 +1,7 @@
 # Extract these same files into your system in a particular folder
 
 ### Download these packages:
-vosk
+vosk\
 soundfile
 
 ## Install FFmpeg explicitly
