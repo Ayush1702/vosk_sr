@@ -2,7 +2,12 @@
 
 ### Download these packages:
 vosk\
-soundfile
+soundfile\
+Install FFmpeg explicitly at: https://ffmpeg.org/download.html#build-windows\
 
-## Install FFmpeg explicitly
+### List of models available: https://alphacephei.com/vosk/models\
+We have used vosk-model-en-us-daanzu-20200905-lgraph(US English)\
+We will also test it on Indian English\
+
+
 
